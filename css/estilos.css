@@ -161,7 +161,7 @@ div.banner__grupos div.banner__boton button:hover{
 @media screen and (max-width: 576px)
 {
 
-    div.banner__grupos div.banner__boton button{
+    div.banner__grupos div.banner__boton button.boton1{
         width: 100%!important;
     }
 }
